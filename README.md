@@ -58,7 +58,7 @@ While building this project, I learned two major thing:
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps) - This helped me with Javascript and CSS basics.
+- [Example resource 1](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps) - This helped me with HTML, CSS and JavaScript basics.
 
 ## Author
 
