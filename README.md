@@ -26,26 +26,6 @@ Users should be able to:
   - The `Name`, `Email Address` or `Your Message` fields are empty should show "Can't be empty"
   - The `Email Address` is not formatted correctly should show "Please use a valid email address"
 
-### Screenshot
-
-<p align="center">
-   Desktop
-   <br></br>
-  <img width="600" src="./screenshots/desktop-version.png">
-</p>
-
-<p align="center">
-   Tablet
-   <br></br>
-  <img width="600" src="./screenshots/tablet-version.png">
-</p>
-
-<p align="center">
-   Mobile
-   <br></br>
-  <img src="./screenshots/mobile-version.png">
-</p>
-
 
 ### Links
 https://liliyao2022.github.io/designo-app/contact.html
